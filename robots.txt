@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://evernightbeloved.github.io/lab7-analytics/sitemap.xml
